@@ -24,11 +24,11 @@ This repository contains various Java programs and exercises that I am working o
 ## 🛠 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/fhantomwatcher/java-practice.git
+   git clone https://github.com/fhantomwatcher/Java-Practice.git
    ```
 2. Navigate to the directory:
    ```sh
-   cd java-practice
+   cd java-practice/VMS/src
    ```
 3. Compile and run Java programs:
    ```sh
